@@ -1,16 +1,43 @@
-### Hi there 👋
 
-<!--
-**mertpamuk/mertpamuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi There, I'm MERT PAMUK. :wave:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <font color="46d1fd"> FLUTTER </font> Developer
+#
+### Reach out to me
+
+
+
+[<img height="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
+[<img height="22" src="https://unpkg.com/simple-icons@v5/icons/github.svg" />][github]
+[<img height="22" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />][instagram]
+[<img height="22" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg" />][twitter]
+
+
+[linkedin]: https://www.linkedin.com/in/mertpamuk/
+[twitter]: https://twitter.com/pmkein
+[instagram]: https://www.instagram.com/pmkein/
+[github]: https://github.com/mertpamuk
+
+
+
+&bull;&nbsp;:iphone: &nbsp;&nbsp;I’m currently learning more about Mobile Development.
+
+&bull;&nbsp;:guitar:&nbsp;Also I'm musician.
+
+
+### Langages and Tools :
+
+
+<img width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
+<img width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
+<img width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+
+
+
+
+
+
+
+
