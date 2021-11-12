@@ -3,7 +3,6 @@
 ### Hi There, I'm MERT PAMUK. :wave:
 
 ## <font color="46d1fd"> FLUTTER </font> Developer
-#
 ### Reach out to me
 
 
