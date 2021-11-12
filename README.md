@@ -8,9 +8,9 @@
 
 
 
-[<img height="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
-[<img height="22" src="https://unpkg.com/simple-icons@v5/icons/github.svg" />][github]
-[<img height="22" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />][instagram]
+[<img height="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]&nbsp;&nbsp;&nbsp;
+[<img height="22" src="https://unpkg.com/simple-icons@v5/icons/github.svg" />][github]&nbsp;&nbsp;&nbsp;
+[<img height="22" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />][instagram]&nbsp;&nbsp;&nbsp;
 [<img height="22" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg" />][twitter]
 
 
