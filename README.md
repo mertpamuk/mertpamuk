@@ -18,9 +18,7 @@
 
 
 
-&bull;&nbsp;:iphone: &nbsp;&nbsp;I’m currently learning more about Software Development.
-
-&bull;&nbsp;:guitar:&nbsp;Also I'm musician.
+&bull;&nbsp;:iphone: &nbsp;&nbsp;Currently I'm improving myself on cross platform mobile application development with Flutter.
 
 
 ### Languages and Tools :
