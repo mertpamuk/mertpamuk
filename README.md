@@ -18,7 +18,7 @@
 
 
 
-&bull;&nbsp;:iphone: &nbsp;&nbsp;Currently I'm improving myself on cross platform mobile application development with Flutter.
+Currently I'm improving myself on cross platform mobile application development with Flutter.
 
 
 ### Languages and Tools :
